@@ -21,11 +21,11 @@
 title: Blog do Marília
 email: estevam.mrodrigues@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DevOps, desenvolvimento de software, beras e muay thai.
+  DevOps, desenvolvimento de software, cervejas e muay thai.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://estevammr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: estevammr
+github_username:  estevammr
 
 # Build settings
 theme: minima
