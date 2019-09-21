@@ -10,6 +10,5 @@ No meu tempo livre vou escrever neste blog sobre os temas que venho trabalhando 
 
 Você pode encontrar minhas redes sociais aqui:
 
-[linkedin](https://www.linkedin.com/in/estevamrodrigues)
-
+[linkedin](https://www.linkedin.com/in/estevamrodrigues) |
 [github](https://github.com/estevammr)
